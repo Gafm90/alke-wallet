@@ -4,7 +4,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
 
   // Credenciales simuladas
   const emailValido = "usuario@alke.cl";
-  const passwordValida = "1234";
+  const passwordValida = "Talentodigital";
 
   // Obtenemos valores del formulario
   const email = document.querySelector("input[type='email']").value;
