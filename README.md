@@ -3,7 +3,7 @@
 Aplicación frontend de billetera digital desarrollada con HTML, CSS, JavaScript, Bootstrap y jQuery.
 
 ## Funcionalidades
-- Login de usuario
+- Login de usuario (Usuario:usuario@alke.cl Pass:Talentodigital)
 - Visualización de saldo
 - Depositos
 - Envío de dinero
